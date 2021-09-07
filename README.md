@@ -1,3 +1,4 @@
 # NewGitExample
 
-I am new to this and already making changes! Yay!
+
+I'm adding a new line of text!
